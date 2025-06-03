@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "c:/Users/Shmels/Desktop/insr/student-managment--system6",
-      "program": "c:/Users/Shmels/Desktop/insr/student-managment--system6/build/Debug/outDebug",
+      "cwd": "c:/Users/Shmels/Desktop/declar/student-managment--system6-1",
+      "program": "c:/Users/Shmels/Desktop/declar/student-managment--system6-1/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
